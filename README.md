@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang='en'>
-<head>
-  <meta charset='utf-8'>
-  <title>VeritasChain Market Intelligence Repository</title>
-</head>
-<body>
-  <h1>VeritasChain Market Intelligence Repository</h1>
+<h1>VeritasChain Market Intelligence Repository</h1>
 
   <p>
     This repository provides data driven reports, regulatory analysis,
@@ -37,5 +30,3 @@
     in evaluating the need for verifiable audit trails through the
     <strong>VeritasChain Protocol VCP</strong>.
   </p>
-</body>
-</html>
